@@ -1,0 +1,23 @@
+#game{
+    width: 600px;
+    height: 800px;
+    background-color: rgb(20, 43, 78);
+    margin-left: -8px;
+    margin-top: -8px;
+}
+#bird{
+    width: 50px;
+    height: 50px;
+    /* background-image: url('https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Birds-PNG/Humming_Bird_Transparent_PNG_Clipart_Picture.png?m=1434276636'); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    top: 260px;
+    border: 1px solid black;
+    background-color: black;
+}
+.pillar{
+    position: absolute;
+    background-color: rgb(26, 199, 64);
+}
