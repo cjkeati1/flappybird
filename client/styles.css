@@ -1,7 +1,7 @@
 #game{
     width: 600px;
     height: 800px;
-    background-color: rgb(20, 43, 78);
+    background-color: rgb(19, 121, 169);
     margin-left: -8px;
     margin-top: -8px;
 }
@@ -19,5 +19,5 @@
 }
 .pillar{
     position: absolute;
-    background-color: rgb(26, 199, 64);
+    background-color: rgb(51, 199, 44);
 }
